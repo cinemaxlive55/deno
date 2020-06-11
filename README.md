@@ -26,4 +26,10 @@ specifics.
 
 [Chat](https://discord.gg/TGMHGv6)
 
-[More links](https://github.com/denolib/awesome-deno)
+[Awesome Deno](https://github.com/denolib/awesome-deno)
+
+More Links:
+https://blog.bitsrc.io/what-is-deno-and-will-it-replace-nodejs-a13aa1734a74
+https://deno.land/
+https://tokio.rs/docs/overview/
+https://bit.dev/
